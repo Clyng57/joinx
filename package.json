@@ -1,0 +1,32 @@
+{
+  "name": "joinx",
+  "version": "1.0.0",
+  "main": "index.js",
+  "description": "A light-weight javascript templating engine for generating html.",
+  "author": "Cal Young",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Clyng57/joinx"
+  },
+  "license": "MIT",
+  "keywords": [
+    "template",
+    "express",
+    "engine",
+    "html",
+    "javascript",
+    "js",
+    "nodejs",
+    "templating",
+    "views",
+    "node",
+    "render",
+    "html-js"
+  ],
+  "files": [
+    "index.js",
+    "util/index.js",
+    "types/index.d.ts"
+  ],
+  "types": "types/index.d.ts"
+}

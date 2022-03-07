@@ -1,5 +1,5 @@
 
-# JoinScript
+# JoinX
 
 A light-weight javascript templating engine for generating html.
 
@@ -38,10 +38,10 @@ npm i --save joinscript
 ### Options:
 
 ```js
-const JoinScript = require('joinscript')
+const JoinX = require('joinx')
 
 // create JX passing in (options)
-const JX = new JoinScript({
+const JX = new JoinX({
   // views directory
   views: path.join(__dirname, './views'),
   // blocks directory

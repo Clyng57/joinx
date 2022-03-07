@@ -26,7 +26,7 @@ A light-weight javascript templating engine for generating html.
 ## Install
 
 ```console
-npm i --save joinscript 
+npm i --save joinx 
 ```
 
 <br />

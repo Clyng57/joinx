@@ -1,14 +1,14 @@
 
 /**
- * @module joinscript
+ * @module joinx
  */
-declare module 'joinscript'
+declare module 'joinx'
 /**
- * Class JoinScript - A light-weight javascript templating engine for generating html.
+ * Class JoinX - A light-weight javascript templating engine for generating html.
  */
-declare class JoinScript {
+declare class JoinX {
   /**
-   * Create JoinScript
+   * Create JoinX
    * 
    * @param {Object} options - contains options.
    * @param {string} options.boilerplate - runs on every render.
@@ -46,4 +46,4 @@ declare class JoinScript {
 
 }
 
-export = JoinScript;
+export = JoinX;
